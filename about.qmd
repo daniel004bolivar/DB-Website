@@ -1,0 +1,45 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/daniel-bolivar-04/
+    - icon: github
+      text: Github
+      href: https://github.com/daniel004bolivar
+---
+
+---
+title: ""
+---
+
+## About
+
+I am an adjunct Professor of Research in Social Sciences at the Department of [Psychology, Universidad del Norte](https://www.uninorte.edu.co/web/departamento-de-psicologia), Barranquilla, Colombia. My research interest include applying statistical and Machine Learning methods to generate valuable insights into social behaviors, mental health, Alzheimer's disease (AD), and psychometric proporties.
+
+I received a MsC degree in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos) at the [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia under the supervision of [Jorge Ivan Vélez](https://jorgeivanvelez.netlify.app/). Before the master, I earned a BSc in Psychology from the [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla. I also conducted research on statistical and social phenomena as member of the Center for Research in [Human Development (CIDHUM)](https://www.uninorte.edu.co/web/gidhum) at [Universidad del Norte](https://www.uninorte.edu.co/), and [Storymodelers](https://www.storymodelers.org/) at the [Virginia Modeling, Analysis, and Simulation Center (VMASC)](https://vmasc.org/), [Old Dominion University.](https://www.odu.edu/)
+
+I have more than 4 years of experience in the development and/or application of statistical and analytical methods (i.e., inference, simulation, modelling, and graphical representation) to quantitative psychology, social phenomena, mental health, and genetic data. I also have strong bases and knowledge utilizing specialized statistical software, including R, Python, JAMOVI, JASP, and Latent Gold. Altogether, these components have allowed me to work as part of multidisciplinary groups in academia (including teaching) and research in Colombia and USA.
+
+Since 2023, I have been working on integrating different disciplinary perspectives to construct a comprehensive understanding of safety and security in hard-to-reach environments, using slums and informal settlements as case studies. Additionally, I have been involved in designing and validating surveys to measure these concepts effectively. Currently, I am focused on identifying common functional genetic variants that influence the age of onset in individuals with sporadic Alzheimer's disease (AD), as well as variants that increase susceptibility or contribute to the progression of AD in the Colombian Caribbean region.
+
+Please feel free to contact me by [email](mailto:dpimiento@uninorte.edu.co). You can find my CV <a href="https://drive.google.com/file/d/1iSVgDTKYPc3Tn2VnqUs9uWFTcYpytVp6/view?usp=sharing" target="_blank"> here</a>.
+
+## Publications
+
+As of September 2024, I have coauthored **3 ISI/SCOPUS research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?hl=en&user=7qpoVZIAAAAJ), [Research Gate](https://www.researchgate.net/profile/Daniel-Bolivar-Pimiento), [ORCID](https://orcid.org/0000-0002-9664-3400) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>.
+
+### Research Papers
+
+#### 2024
+
+1.  Bautista-Gomez, M. M., Millán De Lange, A. C., Palacio Sañudo, J. E., Zuluaga, L. S., **Bolívar Pimiento, D. A**., Toloza Perez, Y. G., ... & Ospina, M. (2024).Psychosocial risk profiles to address future health emergencies: a country study during the COVID-19 lockdown period in Colombia. [*Frontiers in Public Health*](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1323490/full), *12*, 1323490.
+
+2.  Restrepo Cervantes, D., Chamorro Coneo, A., **Bolivar Pimiento, D.** *et al.* A Psychometric Analysis of the Moral Disengagement Scale (MDS) in Association to Bullying Roles in Colombian Youth. [*Int Journal of Bullying Prevention*](https://link.springer.com/article/10.1007/s42380-024-00215-y) (2024). <https://doi.org/10.1007/s42380-024-00215-y>
+
+#### 2023
+
+1.  Palacio-Sañudo, J., **Bolívar, D**., Aragón, J., Romero, D., Jiménez, V., Llanos, A., & Maya-Jariego, I. (2023).Psychometric Properties of the Brief Sense of Community Scale (BSCS) in the neighborhoods of Barranquilla, Colombia. [*Apuntes De Psicología*](https://www.apuntesdepsicologia.es/index.php/revista/article/view/1551), *41*(3), 181-191. <https://doi.org/10.55414/ap.v41i3.1551>

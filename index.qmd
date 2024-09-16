@@ -1,0 +1,67 @@
+---
+title: ""
+---
+
+<br>
+
+<center>![](images/Foto%20Color-fotor-20240912174831-01.png){width="298"}</center>
+
+<br>
+
+<center><font size="+2">**Daniel A. Bolívar, MsC** </font> <br> <font size="+1.2">Adjunct Professor</font><br> <font size="+1.2">Department of Psychology</font><br> <font size="+1.2">Universidad del Norte, Barranquilla</font><br></center>
+
+<br>
+
+<!-- <br> -->
+
+## About
+
+I am an Adjunct Professor at the Department of [Psychology,](https://www.uninorte.edu.co/web/departamento-de-psicologia) [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia. My research interest include applying statistical and Machine Learning methods to generate valuable insights into social behaviors, mental health, Alzheimer's disease (AD), and psychometric properties.
+
+I received a MsC degree in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos) at the [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia under the supervision of [Jorge Ivan Vélez](https://jorgeivanvelez.netlify.app/). Before the master, I earned a BSc in Psychology from the [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla. I also conducted research on statistical and social phenomena as member of the [Center for Research in Human Development (CIDHUM)](https://www.uninorte.edu.co/web/gidhum) at [Universidad del Norte](https://www.uninorte.edu.co/), and [Storymodelers](https://www.storymodelers.org/) at the [Virginia Modeling, Analysis, and Simulation Center (VMASC)](https://vmasc.org/), [Old Dominion University.](https://www.odu.edu/)
+
+Since 2023, I have been working on integrating different disciplinary perspectives to construct a comprehensive understanding of safety and security in [hard-to-reach environments](https://www.odu.edu/article/odu-team-receives-16-million-defense-grant-to-identify-the-known-unknowns-field-research), using slums and informal settlements as case studies. Additionally, I have been involved in designing and validating surveys to measure these concepts effectively. Currently, I am focused on identifying common functional genetic variants that influence the age of onset in individuals with sporadic Alzheimer's disease (AD), as well as variants that increase susceptibility or contribute to the progression of AD in the Colombian Caribbean region.
+
+Please feel free to contact me by [email](#0). You can find my CV [here](https://uninorte-my.sharepoint.com/:b:/g/personal/dpimiento_uninorte_edu_co/ETRoaLRzj0ZAn1bdQ_mFABYB5_6tH9umkI_axxBmnLNw1A?e=sVcb8z).
+
+## Research
+
+### **Published**
+
+As of September 2024, I have coauthored **3 ISI/SCOPUS research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?hl=en&user=7qpoVZIAAAAJ), [Research Gate](https://www.researchgate.net/profile/Daniel-Bolivar-Pimiento), [ORCID](https://orcid.org/0000-0002-9664-3400) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>.
+
+1.  Bautista-Gomez, M. M., Millán De Lange, A. C., Palacio Sañudo, J. E., Zuluaga, L. S., **Bolívar Pimiento, D. A**., Toloza Perez, Y. G., ... & Ospina, M. (2024).Psychosocial risk profiles to address future health emergencies: a country study during the COVID-19 lockdown period in Colombia. [*Frontiers in Public Health*](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1323490/full), *12*, 1323490.
+
+2.  Restrepo Cervantes, D., Chamorro Coneo, A., **Bolivar Pimiento, D.** *et al.* A Psychometric Analysis of the Moral Disengagement Scale (MDS) in Association to Bullying Roles in Colombian Youth. [*Int Journal of Bullying Prevention*](https://link.springer.com/article/10.1007/s42380-024-00215-y) (2024). <https://doi.org/10.1007/s42380-024-00215-y>
+
+3.  Palacio-Sañudo, J., **Bolívar, D**., Aragón, J., Romero, D., Jiménez, V., Llanos, A., & Maya-Jariego, I. (2023).Psychometric Properties of the Brief Sense of Community Scale (BSCS) in the neighborhoods of Barranquilla, Colombia. [*Apuntes De Psicología*](https://www.apuntesdepsicologia.es/index.php/revista/article/view/1551), *41*(3), 181-191. <https://doi.org/10.55414/ap.v41i3.1551>
+
+### **Work in progress**
+
+1.  *⁠Exosomal mRNA Signatures as Predictive Biomarkers for Risk and Age of Onset in Alzheimer's Disease*. (With Jorge I. Vélez, María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Ricardo Allegri, Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos and Pilar Garavito-Galofre).
+
+2.  *From Focus to Fulfillment: The Connection Between Regulatory Focus and Sexual Satisfaction in Young Colombians*. (With Duban Romero, Moisés Mebarak and Franyeli Gomez).
+
+3.  *Profiling attitudes toward migrants: Cases cities of Barranquilla and Cúcuta*. (With Katherine Palacio, Erika Frydenlund, Jose Padilla and Humberto Llinás).
+
+## 
+
+<br><br><br><br>
+
+<center>
+
+<hr>
+
+<center>
+
+<p>
+
+Copyright® 2024. <br> Webpage made with ![](images/quarto.png){width="100"} <br> Modified: September 14, 2024.
+
+</center>
+
+<hr>
+
+<!-- Copyright® 2024. <br> Webpage made with [Quarto](https://quarto.org/) by [Daniel A. Bolívar](https://danielbolivar-website.netlify.app/). -->
+
+<!-- <hr> -->
