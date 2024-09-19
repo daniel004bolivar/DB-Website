@@ -8,7 +8,7 @@ title: ""
 
 <br>
 
-<center><font size="+2">**Daniel A. Bolívar, MsC** </font> <br> <font size="+1.2">Adjunct Professor</font><br> <font size="+1.2">Department of Psychology</font><br> <font size="+1.2">Universidad del Norte, Barranquilla</font><br></center>
+<center><font size="+2">**Daniel A. Bolívar, Master in Data Analytics** </font> <br> <font size="+1.2">Adjunct Professor</font><br> <font size="+1.2">Department of Psychology</font><br> <font size="+1.2">Universidad del Norte, Barranquilla</font><br></center>
 
 <br>
 
@@ -16,13 +16,13 @@ title: ""
 
 ## About
 
-I am an Adjunct Professor at the Department of [Psychology,](https://www.uninorte.edu.co/web/departamento-de-psicologia) [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia. My research interest include applying statistical and Machine Learning methods to generate valuable insights into social behaviors, mental health, Alzheimer's disease (AD), and psychometric properties.
+I am an Adjunct Professor at the Department of [Psychology,](https://www.uninorte.edu.co/web/departamento-de-psicologia) [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia. My research interest includes applying statistical and Machine Learning methods to generate valuable insights into social behaviors, mental health, Alzheimer's disease (AD), and psychometric properties.
 
-I received a MsC degree in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos) at the [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia under the supervision of [Jorge Ivan Vélez](https://jorgeivanvelez.netlify.app/). Before the master, I earned a BSc in Psychology from the [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla. I also conducted research on statistical and social phenomena as member of the [Center for Research in Human Development (CIDHUM)](https://www.uninorte.edu.co/web/gidhum) at [Universidad del Norte](https://www.uninorte.edu.co/), and [Storymodelers](https://www.storymodelers.org/) at the [Virginia Modeling, Analysis, and Simulation Center (VMASC)](https://vmasc.org/), [Old Dominion University.](https://www.odu.edu/)
+I hold a Master's degree in [Data Analytics](https://www.uninorte.edu.co/web/maestria-en-ciencia-de-datos) from [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia, where I conducted my research project under the supervision of [Jorge I. Vélez](https://jorgeivanvelez.netlify.app/). Prior to that, I earned a BSc in Psychology from the same institution. My research experience includes investigating statistical and social phenomena as part of the [Center for Research in Human Development (CIDHUM)](https://www.uninorte.edu.co/web/gidhum) at [Universidad del Norte](https://www.uninorte.edu.co/), and [The Storymodelers](https://www.storymodelers.org/) research initiative.
 
 Since 2023, I have been working on integrating different disciplinary perspectives to construct a comprehensive understanding of safety and security in [hard-to-reach environments](https://www.odu.edu/article/odu-team-receives-16-million-defense-grant-to-identify-the-known-unknowns-field-research), using slums and informal settlements as case studies. Additionally, I have been involved in designing and validating surveys to measure these concepts effectively. Currently, I am focused on identifying common functional genetic variants that influence the age of onset in individuals with sporadic Alzheimer's disease (AD), as well as variants that increase susceptibility or contribute to the progression of AD in the Colombian Caribbean region.
 
-Please feel free to contact me by [email](#0). You can find my CV [here](https://uninorte-my.sharepoint.com/:b:/g/personal/dpimiento_uninorte_edu_co/ETRoaLRzj0ZAn1bdQ_mFABYB5_6tH9umkI_axxBmnLNw1A?e=sVcb8z).
+Please feel free to contact me by [email](#0). You can find my CV [here](https://uninorte-my.sharepoint.com/:b:/g/personal/dpimiento_uninorte_edu_co/ETRoaLRzj0ZAn1bdQ_mFABYB5_6tH9umkI_axxBmnLNw1A?e=Imot8a).
 
 ## Research
 
