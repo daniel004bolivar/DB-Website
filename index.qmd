@@ -8,7 +8,9 @@ title: ""
 
 <br>
 
-<center><font size="+2">**Daniel A. Bolívar, Master in Data Analytics** </font> <br> <font size="+1.2">Adjunct Professor</font><br> <font size="+1.2">Department of Psychology</font><br> <font size="+1.2">Universidad del Norte, Barranquilla</font><br></center>
+<center><font size="+2">**Daniel A. Bolívar**
+
+**Master in Data Analytics** </font> <br> <font size="+1.2">Adjunct Professor</font><br> <font size="+1.2">Department of Psychology</font><br> <font size="+1.2">Universidad del Norte, Barranquilla</font><br></center>
 
 <br>
 
