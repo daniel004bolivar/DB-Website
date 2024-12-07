@@ -8,9 +8,13 @@ title: ""
 
 <br>
 
-<center><font size="+2">**Daniel A. Bolívar**
+<center>
 
-**Master in Data Analytics** </font> <br> <font size="+1.2">Adjunct Professor</font><br> <font size="+1.2">Department of Psychology</font><br> <font size="+1.2">Universidad del Norte, Barranquilla</font><br></center>
+<font size="+2">**Daniel A. Bolívar**
+
+**Master in Data Analytics** </font> <br> <font size="+1.2">Adjunct Professor</font><br> <font size="+1.2">Department of Psychology</font><br> <font size="+1.2">Universidad del Norte, Barranquilla</font><br>
+
+</center>
 
 <br>
 
@@ -32,15 +36,17 @@ Please feel free to contact me by [email](#0). You can find my CV [here](https:/
 
 As of September 2024, I have coauthored **3 ISI/SCOPUS research papers**. You can access some of these publications below, or directly from [Google Scholar](https://scholar.google.com.co/citations?hl=en&user=7qpoVZIAAAAJ), [Research Gate](https://www.researchgate.net/profile/Daniel-Bolivar-Pimiento), [ORCID](https://orcid.org/0000-0002-9664-3400) or <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639&lang=es" target="_blank"> CvLAC </a>.
 
-1.  Bautista-Gomez, M. M., Millán De Lange, A. C., Palacio Sañudo, J. E., Zuluaga, L. S., **Bolívar Pimiento, D. A**., Toloza Perez, Y. G., ... & Ospina, M. (2024).Psychosocial risk profiles to address future health emergencies: a country study during the COVID-19 lockdown period in Colombia. [*Frontiers in Public Health*](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1323490/full), *12*, 1323490.
+1.  **Bolívar**, **D**. **A**., Mosquera-Heredia, M. I., Vidal, O. M., Barceló, E., Allegri, R., Morales, L. C., Silvera-Redondo, C., Arcos-Burgos, M., Garavito-Galofre, P., & Vélez, J. I. (2024). Exosomal mRNA Signatures as Predictive Biomarkers for Risk and Age of Onset in Alzheimer’s Disease. [*International Journal of Molecular Sciences*](https://www.mdpi.com/1422-0067/25/22/12293), *25*(22), 12293. <https://doi.org/10.3390/ijms252212293>
 
-2.  Restrepo Cervantes, D., Chamorro Coneo, A., **Bolivar Pimiento, D.** *et al.* A Psychometric Analysis of the Moral Disengagement Scale (MDS) in Association to Bullying Roles in Colombian Youth. [*Int Journal of Bullying Prevention*](https://link.springer.com/article/10.1007/s42380-024-00215-y) (2024). <https://doi.org/10.1007/s42380-024-00215-y>
+2.  Bautista-Gomez, M. M., Millán De Lange, A. C., Palacio Sañudo, J. E., Zuluaga, L. S., **Bolívar Pimiento, D. A**., Toloza Perez, Y. G., ... & Ospina, M. (2024). Psychosocial risk profiles to address future health emergencies: a country study during the COVID-19 lockdown period in Colombia. [*Frontiers in Public Health*](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1323490/full), *12*, 1323490.
 
-3.  Palacio-Sañudo, J., **Bolívar, D**., Aragón, J., Romero, D., Jiménez, V., Llanos, A., & Maya-Jariego, I. (2023).Psychometric Properties of the Brief Sense of Community Scale (BSCS) in the neighborhoods of Barranquilla, Colombia. [*Apuntes De Psicología*](https://www.apuntesdepsicologia.es/index.php/revista/article/view/1551), *41*(3), 181-191. <https://doi.org/10.55414/ap.v41i3.1551>
+3.  Restrepo Cervantes, D., Chamorro Coneo, A., **Bolivar Pimiento, D.** *et al.* A Psychometric Analysis of the Moral Disengagement Scale (MDS) in Association to Bullying Roles in Colombian Youth. [*Int Journal of Bullying Prevention*](https://link.springer.com/article/10.1007/s42380-024-00215-y) (2024). <https://doi.org/10.1007/s42380-024-00215-y>
+
+4.  Palacio-Sañudo, J., **Bolívar, D**., Aragón, J., Romero, D., Jiménez, V., Llanos, A., & Maya-Jariego, I. (2023).Psychometric Properties of the Brief Sense of Community Scale (BSCS) in the neighborhoods of Barranquilla, Colombia. [*Apuntes De Psicología*](https://www.apuntesdepsicologia.es/index.php/revista/article/view/1551), *41*(3), 181-191. <https://doi.org/10.55414/ap.v41i3.1551>
 
 ### **Work in progress**
 
-1.  *⁠Exosomal mRNA Signatures as Predictive Biomarkers for Risk and Age of Onset in Alzheimer's Disease*. (With Jorge I. Vélez, María I. Mosquera-Heredia, Oscar M. Vidal, Ernesto Barceló, Ricardo Allegri, Luis C. Morales, Carlos Silvera-Redondo, Mauricio Arcos-Burgos and Pilar Garavito-Galofre).
+1.  *⁠Social Safety and Social Security: Validating Context-Specific Instruments for Informal Settlements.* (With Romero Liss, Katherine Palacio, Humberto Llinás, Leidy Gónzales, Valeria Silgado, Erika Frydenlund and, Jose Padilla.
 
 2.  *From Focus to Fulfillment: The Connection Between Regulatory Focus and Sexual Satisfaction in Young Colombians*. (With Duban Romero, Moisés Mebarak and Franyeli Gomez).
 
@@ -56,7 +62,7 @@ As of September 2024, I have coauthored **3 ISI/SCOPUS research papers**. You ca
 
 <p>
 
-Copyright® 2024. <br> Webpage made with ![](images/quarto.png){width="100"} <br> Modified: September 14, 2024.
+Copyright® 2024. <br> Webpage made with ![](images/quarto.png){width="100"} <br> Modified: December 7, 2024.
 
 </center>
 
